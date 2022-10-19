@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  font-family: verdana, sans-serif;
+  color: white;
+}
+
+.mainConteiner {
+  margin: 10px auto;
+  max-width: 1236px;
+}
+
+h2 {
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+padding: 2rem 5rem 0 5rem;
+text-align: left;
+color: #000000;
+}

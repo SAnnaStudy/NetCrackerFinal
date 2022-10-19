@@ -1,0 +1,9 @@
+export const ADMIN_ROUTE = '/admin'; //панель добавления рецептов
+export const USER_ROUTE = '/user'; //панель добавления рецептов  от пользователя
+export const LOGIN_ROUTE = '/login'; //страница регистрации
+export const REGISTRATION_ROUTE = '/registration'; //страница регистрации
+export const RECIPES_ROUTE = '/recipes'; //страница с найденными рецептами
+export const RECIPE_ROUTE = '/recipePage'; //страница с одним открытым рецептом
+export const MAIN_ROUTE = '/'; //главная страница
+export const SEARCHBYINGREDIENTS_ROUTE = '/searchByIngredients'; //поиск по ингредиентам
+export const SEARCHBYNAME_ROUTE = '/searchByName'; //поиск по названию

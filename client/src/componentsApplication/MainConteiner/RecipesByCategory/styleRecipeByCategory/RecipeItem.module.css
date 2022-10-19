@@ -1,0 +1,29 @@
+.recipeItem {
+    margin-bottom: 20px;
+}
+
+.recipeName {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.recipeCard {
+    background-color: #ECF3E0;
+}
+
+.recipeCard:hover {
+    background-color: #D7E5BD;
+}
+
+.recipeImg {
+    width: 240px;
+    height: 200px;
+    margin: 10px auto;
+}
+
+.recipeInfo {
+    margin: 0 auto;
+}

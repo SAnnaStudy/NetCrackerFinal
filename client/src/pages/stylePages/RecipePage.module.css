@@ -1,0 +1,63 @@
+.recipePage {
+    margin: 30px auto;
+}
+
+.recipePageLink {
+    margin: 0 auto 0 20px;
+}
+
+.recipePageLink_link {
+    color: #82AF33;
+    text-decoration: none;
+}
+
+.recipePageLink_link:hover {
+    color: #0f5132;
+    text-decoration: underline;
+}
+
+.recipePageTitle {
+    margin-top: 50px;
+    background-color: #CDDFAD;
+}
+
+.recipePageTitle_h2 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.recipePage_info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.recipePage_info_item {
+    margin: 0 10px;
+}
+
+.recipePage_ingredients h2 {
+    font-size: 20px;
+    padding-left: 0px;
+    padding-top: 0;
+}
+
+.recipePage_description h2 {
+    padding: 40px 0 25px 0;
+}
+
+.recipePage_ingredients_flex {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.recipePage_ingredients_item {
+    font-weight: 600;
+    width: 50%;
+    margin: 5px auto 5px 15px;
+}
